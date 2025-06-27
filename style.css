@@ -9,3 +9,8 @@ header {
     text-align: center;
     font-size: large;
 }
+ h1{
+     font-family: "Manufacturing Consent", system-ui;
+  font-weight: 400;
+  font-style: normal;
+ }
