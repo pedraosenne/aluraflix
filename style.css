@@ -1,10 +1,11 @@
-body{
+body {
     background-color: maroon;
 }
-      
-header{
-     font-family: "Manufacturing Consent", system-ui;
-  font-weight: 400;
-  font: style 45px;;
-  background-color: aliceblue;
+
+header {
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 700;
+    font: style 45px;
+    background-color: aliceblue;
+    bac
 }
