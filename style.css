@@ -5,7 +5,7 @@ body {
 header {
     font-family: "Manufacturing Consent", system-ui;
     font-weight: 700;
-    font: style 45px;
     background-color: aliceblue;
     text-align: center;
+    font-size: large;
 }
