@@ -1,11 +1,11 @@
-body{ 
+body {
     background-color: maroon;
     marding padding: auto;
     font color: :blank;
-    .manufacturing-consent-regular {
-  font-family: "Manufacturing Consent", system-ui;
-  font-weight: 400;
-  font-style: normal;
 }
 
-
+ head{
+     font-family: "Manufacturing Consent", system-ui;
+  font-weight: 400;
+  font-style: normal;
+ }
