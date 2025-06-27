@@ -17,3 +17,7 @@ h1 {
     font-weight: 400;
     font-style: normal;
 }
+.chamada{
+     display: flex;
+     
+}
