@@ -4,14 +4,16 @@ body {
 
 header {
     font-family: "Manufacturing Consent", system-ui;
-    font-weight: 700;
+    font-weight: 400;
+    font-style: normal;
     background-color: aliceblue;
     text-align: center;
     padding: 30px;
     font-size: 45px;
 }
- h1{
-     font-family: "Manufacturing Consent", system-ui;
-  font-weight: 400;
-  font-style: normal;
- }
+
+h1 {
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
