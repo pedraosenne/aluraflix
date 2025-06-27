@@ -1,11 +1,9 @@
-body {
+body{
     background-color: maroon;
-    marding padding: auto;
-    font color: :blank;
 }
-
- head{
+      
+header{
      font-family: "Manufacturing Consent", system-ui;
   font-weight: 400;
   font-style: normal;
- }
+}
