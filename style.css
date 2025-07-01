@@ -31,3 +31,11 @@ h1 {
 h2{
     color: white;
 }
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+}
