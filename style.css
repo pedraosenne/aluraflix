@@ -1,5 +1,5 @@
 body {
-    background-color: maroon;
+    background-image: url(https://wallpapers.com/images/hd/red-gradient-background-stqwj36ihqid8933.jpg);
 }
 
 header {
@@ -17,7 +17,8 @@ h1 {
     font-weight: 400;
     font-style: normal;
 }
-.chamada{
-     display: flex;
-     
+
+.chamada {
+    display: flex;
+
 }
