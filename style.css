@@ -21,6 +21,7 @@ h1 {
 
 .chamada {
     display: flex;
+    justify-content: center;
 
 }
 
